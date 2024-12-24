@@ -2,6 +2,7 @@
 
 ## Objective
 Design a computer network for IT Centre and Department blocks using a 3-tier network model (core, distribution, access).
+![image](https://github.com/user-attachments/assets/1ad1cb7d-5752-4abc-8c8c-7f2e69dde9db)
 
 ## Network Overview
 ### IT Centre Block
